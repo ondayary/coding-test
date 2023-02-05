@@ -7,7 +7,7 @@ public class N1078 {
         int sum = 0;
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
-        for(int i = 1; i < num; i++) { // 1시작
+        for(int i = 1; i <= num; i++) { // 1시작
             if(i % 2 == 0) { // 짝수라면
                 sum = sum + i;
             }
