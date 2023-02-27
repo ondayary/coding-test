@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class N1086 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int w = sc.nextInt();
-        int h = sc.nextInt();
-        int b = sc.nextInt();
+        double w = sc.nextInt();
+        double h = sc.nextInt();
+        double b = sc.nextInt();
 
         double total = 0;
         total = (w * h * b) / 8 / 1024 / 1024;
