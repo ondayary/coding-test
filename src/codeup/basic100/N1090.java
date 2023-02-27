@@ -1,6 +1,5 @@
 package codeup.basic100;
 
-import java.util.Map;
 import java.util.Scanner;
 
 public class N1090 {
