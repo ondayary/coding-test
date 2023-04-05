@@ -8,7 +8,6 @@ public class N11382 {
         long a = sc.nextLong();
         long b = sc.nextLong();
         long c = sc.nextLong();
-
         System.out.println(a+b+c);
     }
 }
