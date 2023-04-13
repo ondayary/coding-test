@@ -25,7 +25,7 @@ Case #4: 9 + 8 = 17
 Case #5: 5 + 2 = 7
  */
 
-package baekjoon.step;
+package baekjoon.step.반복문;
 
 import java.util.Scanner;
 

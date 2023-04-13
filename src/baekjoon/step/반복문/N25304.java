@@ -28,7 +28,7 @@
 Yes
 */
 
-package baekjoon.step;
+package baekjoon.step.반복문;
 
 import java.util.Scanner;
 
