@@ -33,7 +33,7 @@ package corporation;
 
 import java.util.Scanner;
 
-public class TossText {
+public class TossNext {
     public static int solution(String s) { // 입력 인수 s, 메서드에 전달하는 값
         int biggest = -1; // 가장 큰 숫자를 찾는 문제이기 때문에, 변수 biggest를 가장 작은 숫자인 -1로 초기화함
 
@@ -52,8 +52,8 @@ public class TossText {
         System.out.print("s = ");
         String s = sc.next();
 
-        // TossText 클래스의 solution() 메서드를 호출
-        int biggest = TossText.solution(s);
+        // TossNext 클래스의 solution() 메서드를 호출
+        int biggest = TossNext.solution(s);
 
         // 변수 biggest의 값을 출력
         System.out.println(biggest);
